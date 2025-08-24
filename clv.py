@@ -27,7 +27,7 @@ st.title("🧮 Customer Segmentation (RFM) & CLV Prediction App")
 uploaded_file = st.file_uploader("Upload CSV File", type=["csv", "xlsx"])
 
 # Load model
-model_path = 'D:/Project/Customer LTV/online+retail+ii/voting_ensemble_model2.pkl'
+model_path = 'voting_ensemble_model2.pkl'
 primary_color = "#1f77b4"
 secondary_color = "#ff7f0e"
 if not os.path.exists(model_path):
