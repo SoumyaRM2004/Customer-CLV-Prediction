@@ -1,10 +1,3 @@
-Perfect 👍 You want me to take your **project description** and turn it into a **professional, sexy-looking, and detailed `README.md`** for GitHub (with emojis, structured sections, installation instructions, usage guide, etc).
-
-Here’s your **ready-to-use README file** 👇
-
----
-
-````markdown
 # 📊 Customer Lifetime Value (CLV) & RFM Segmentation App  
 
 An **interactive Streamlit web application** for **Customer Segmentation (RFM Analysis)** and **Customer Lifetime Value (CLV) Prediction**.  
