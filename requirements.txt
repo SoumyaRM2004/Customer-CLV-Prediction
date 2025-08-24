@@ -8,4 +8,4 @@ fpdf==1.7.2
 pillow==10.3.0
 shap==0.45.1
 xgboost==2.0.3
-lightgbm
+lightgbm==4.3.0
