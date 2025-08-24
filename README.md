@@ -1,5 +1,14 @@
 # 📊 Customer Lifetime Value (CLV) & RFM Segmentation App  
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)  
+![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-EB5E00)  
+![LightGBM](https://img.shields.io/badge/LightGBM-Gradient%20Boosting-31D17B)  
+![SHAP](https://img.shields.io/badge/Explainability-SHAP-EA1D2C)  
+
 An **interactive Streamlit web application** for **Customer Segmentation (RFM Analysis)** and **Customer Lifetime Value (CLV) Prediction**.  
 This project combines **machine learning (Random Forest, Gradient Boosting, XGBoost, LightGBM)** with **SHAP explainability** to help businesses understand, segment, and predict customer value.  
 
@@ -171,19 +180,4 @@ Ensure your dataset includes these **mandatory columns**:
 ---
 
 ✨ *"Segment. Predict. Explain. Empower businesses with data."* ✨
-
-# 📊 Customer Lifetime Value (CLV) & RFM Segmentation App  
-
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)  
-![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-EB5E00)  
-![LightGBM](https://img.shields.io/badge/LightGBM-Gradient%20Boosting-31D17B)  
-![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-F2C811?logo=powerbi&logoColor=black)  
-![SHAP](https://img.shields.io/badge/Explainability-SHAP-EA1D2C)  
-
-An **interactive Streamlit web application** for **Customer Segmentation (RFM Analysis)** and **Customer Lifetime Value (CLV) Prediction**.  
-This project combines **machine learning (Random Forest, Gradient Boosting, XGBoost, LightGBM)** with **SHAP explainability** to help businesses understand, segment, and predict customer value.  
 
